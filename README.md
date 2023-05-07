@@ -24,16 +24,18 @@ Dinâmica do sistema:
 
 ## Tecnologias
 
-Nesta terceira versão, é concluído o desenvolvimento local. Posteriormente, serão adicionadas as tecnologias de integração contínua, deploy e observabilidade.
+#### Operate What You Build
 
-- Backend
-  - Golang
-  - TypeScript
-  - Nest.js
-  - RabbitMQ
-  - MySQL
-- Frontend (Single Page Application (SPA))
-  - React
+- Nesta terceira versão, é concluído o desenvolvimento local. Posteriormente, serão adicionadas as tecnologias de integração contínua, deploy e observabilidade.
+
+  - Backend
+    - Golang
+    - TypeScript
+    - Nest.js
+    - RabbitMQ
+    - MySQL
+  - Frontend (Single Page Application (SPA))
+    - React
 
 ## Formatos de Comunicação
 
