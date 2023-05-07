@@ -24,7 +24,7 @@ Dinâmica do sistema:
 
 ## Tecnologias
 
-Nesta terceira versão, foi concluído o desenvolvimento local. Posteriormente, serão adicionadas as tecnologias de integração contínua, deploy e observabilidade.
+Nesta terceira versão, é concluído o desenvolvimento local. Posteriormente, serão adicionadas as tecnologias de integração contínua, deploy e observabilidade.
 
 - Backend
   - Golang
