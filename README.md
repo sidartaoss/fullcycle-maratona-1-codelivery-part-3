@@ -45,7 +45,7 @@ Utiliza-se um mecanismo de comunicação entre backend e frontend para entregar 
 
 #### WebSockets
 
-- WebSockets é uma forma de estabelecer uma conexão persistente entre cliente e servidor, ou seja, mantém-se uma conexão aberta para o envio e recebimento de mensagens, sem a necessidade de realizar requests o tempo todo, como é feito com HTTP. Isso é fundamental para se trabalhar com tempo real.
+- WebSockets é uma forma de estabelecer uma conexão persistente entre cliente e servidor, ou seja, mantém-se uma conexão aberta para o envio e recebimento de mensagens, sem a necessidade de realizar requests o tempo todo, como é feito com HTTP. Essa característica é fundamental para se trabalhar com tempo real.
 
   - Como iniciar a comunicação?
 
